@@ -8,17 +8,17 @@ The model predicts insurance charges based on age, BMI, smoking status, and inte
 
 # ✨ Features
 
-📊 Linear Regression Model 
+**📊 Linear Regression Model** 
 
-⚡ Feature Engineering – Interaction terms for combined effects.
+**⚡ Feature Engineering** – Interaction terms for combined effects.
 
-🧹 Data Cleaning – Handles missing values, encodes categorical variables.
+**🧹 Data Cleaning** – Handles missing values, encodes categorical variables.
 
-🔎 Exploratory Data Analysis (EDA) – Scatter plots, boxplots, histograms, correlations.
+**🔎 Exploratory Data Analysis (EDA)** – Scatter plots, boxplots, histograms, correlations.
 
-📉 Error Analysis – MAE, RMSE, R², and percent error across age groups and smoker status.
+**📉 Error Analysis** – MAE, RMSE, R², and percent error across age groups and smoker status.
 
-📈 Visualizations – Actual vs predicted insurance charges
+**📈 Visualizations** – Actual vs predicted insurance charges
 
 
 # ⚙️ Tech Stack
